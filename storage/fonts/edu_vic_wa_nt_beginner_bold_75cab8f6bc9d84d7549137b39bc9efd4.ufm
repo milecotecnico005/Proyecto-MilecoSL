@@ -1,0 +1,150 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/dompdf/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
+FontName Edu VIC WA NT Beginner
+FontSubfamily Bold
+UniqueID 1.003;GOOG;EduVICWANTBeginner-Bold
+FullName Edu VIC WA NT Beginner Bold
+Version Version 1.003
+PostScriptName EduVICWANTBeginner-Bold
+LicenseURL https://scripts.sil.org/OFL
+Weight Bold
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -100
+FontHeightOffset 0
+Ascender 1016
+Descender -244
+FontBBox -259 -363 994 890
+StartCharMetrics 127
+U 32 ; WX 356 ; N space ; G 63
+U 33 ; WX 328 ; N exclam ; G 70
+U 34 ; WX 466 ; N quotedbl ; G 94
+U 35 ; WX 898 ; N numbersign ; G 77
+U 36 ; WX 649 ; N dollar ; G 105
+U 37 ; WX 802 ; N percent ; G 124
+U 38 ; WX 713 ; N ampersand ; G 97
+U 39 ; WX 278 ; N quotesingle ; G 95
+U 40 ; WX 537 ; N parenleft ; G 84
+U 41 ; WX 537 ; N parenright ; G 85
+U 42 ; WX 511 ; N asterisk ; G 76
+U 43 ; WX 506 ; N plus ; G 109
+U 44 ; WX 260 ; N comma ; G 66
+U 45 ; WX 454 ; N hyphen ; G 80
+U 46 ; WX 260 ; N period ; G 65
+U 47 ; WX 495 ; N slash ; G 78
+U 48 ; WX 565 ; N zero ; G 53
+U 49 ; WX 276 ; N one ; G 54
+U 50 ; WX 516 ; N two ; G 55
+U 51 ; WX 544 ; N three ; G 56
+U 52 ; WX 554 ; N four ; G 57
+U 53 ; WX 497 ; N five ; G 58
+U 54 ; WX 507 ; N six ; G 59
+U 55 ; WX 488 ; N seven ; G 60
+U 56 ; WX 494 ; N eight ; G 61
+U 57 ; WX 527 ; N nine ; G 62
+U 58 ; WX 260 ; N colon ; G 67
+U 59 ; WX 260 ; N semicolon ; G 68
+U 60 ; WX 506 ; N less ; G 116
+U 61 ; WX 506 ; N equal ; G 113
+U 62 ; WX 506 ; N greater ; G 115
+U 63 ; WX 582 ; N question ; G 72
+U 64 ; WX 846 ; N at ; G 96
+U 65 ; WX 588 ; N A ; G 1
+U 66 ; WX 650 ; N B ; G 2
+U 67 ; WX 672 ; N C ; G 3
+U 68 ; WX 685 ; N D ; G 4
+U 69 ; WX 650 ; N E ; G 5
+U 70 ; WX 638 ; N F ; G 6
+U 71 ; WX 672 ; N G ; G 7
+U 72 ; WX 672 ; N H ; G 8
+U 73 ; WX 468 ; N I ; G 9
+U 74 ; WX 714 ; N J ; G 10
+U 75 ; WX 613 ; N K ; G 11
+U 76 ; WX 619 ; N L ; G 12
+U 77 ; WX 977 ; N M ; G 13
+U 78 ; WX 672 ; N N ; G 14
+U 79 ; WX 682 ; N O ; G 15
+U 80 ; WX 649 ; N P ; G 16
+U 81 ; WX 682 ; N Q ; G 17
+U 82 ; WX 650 ; N R ; G 18
+U 83 ; WX 575 ; N S ; G 19
+U 84 ; WX 587 ; N T ; G 20
+U 85 ; WX 672 ; N U ; G 21
+U 86 ; WX 529 ; N V ; G 22
+U 87 ; WX 917 ; N W ; G 23
+U 88 ; WX 584 ; N X ; G 24
+U 89 ; WX 533 ; N Y ; G 25
+U 90 ; WX 595 ; N Z ; G 26
+U 91 ; WX 501 ; N bracketleft ; G 88
+U 92 ; WX 495 ; N backslash ; G 79
+U 93 ; WX 501 ; N bracketright ; G 89
+U 94 ; WX 536 ; N asciicircum ; G 122
+U 95 ; WX 551 ; N underscore ; G 83
+U 96 ; WX 307 ; N grave ; G 125
+U 97 ; WX 460 ; N a ; G 27
+U 98 ; WX 543 ; N b ; G 28
+U 99 ; WX 406 ; N c ; G 29
+U 100 ; WX 476 ; N d ; G 30
+U 101 ; WX 409 ; N e ; G 31
+U 102 ; WX 353 ; N f ; G 32
+U 103 ; WX 466 ; N g ; G 33
+U 104 ; WX 503 ; N h ; G 34
+U 105 ; WX 252 ; N i ; G 35
+U 106 ; WX 252 ; N j ; G 36
+U 107 ; WX 501 ; N k ; G 37
+U 108 ; WX 249 ; N l ; G 38
+U 109 ; WX 715 ; N m ; G 39
+U 110 ; WX 479 ; N n ; G 40
+U 111 ; WX 425 ; N o ; G 41
+U 112 ; WX 532 ; N p ; G 42
+U 113 ; WX 466 ; N q ; G 43
+U 114 ; WX 459 ; N r ; G 44
+U 115 ; WX 385 ; N s ; G 45
+U 116 ; WX 385 ; N t ; G 46
+U 117 ; WX 473 ; N u ; G 47
+U 118 ; WX 563 ; N v ; G 48
+U 119 ; WX 849 ; N w ; G 49
+U 120 ; WX 617 ; N x ; G 50
+U 121 ; WX 473 ; N y ; G 51
+U 122 ; WX 455 ; N z ; G 52
+U 123 ; WX 501 ; N braceleft ; G 86
+U 124 ; WX 298 ; N bar ; G 102
+U 125 ; WX 501 ; N braceright ; G 87
+U 126 ; WX 507 ; N asciitilde ; G 121
+U 160 ; WX 356 ; N uni00A0 ; G 64
+U 161 ; WX 328 ; N exclamdown ; G 71
+U 162 ; WX 404 ; N cent ; G 104
+U 163 ; WX 612 ; N sterling ; G 107
+U 165 ; WX 533 ; N yen ; G 108
+U 166 ; WX 298 ; N brokenbar ; G 103
+U 169 ; WX 992 ; N copyright ; G 98
+U 174 ; WX 700 ; N registered ; G 99
+U 176 ; WX 416 ; N degree ; G 101
+U 177 ; WX 506 ; N plusminus ; G 119
+U 183 ; WX 260 ; N periodcentered ; G 74
+U 191 ; WX 583 ; N questiondown ; G 73
+U 215 ; WX 506 ; N multiply ; G 111
+U 247 ; WX 506 ; N divide ; G 112
+U 732 ; WX 507 ; N tilde ; G 126
+U 8211 ; WX 550 ; N endash ; G 81
+U 8212 ; WX 659 ; N emdash ; G 82
+U 8216 ; WX 278 ; N quoteleft ; G 92
+U 8217 ; WX 278 ; N quoteright ; G 93
+U 8220 ; WX 466 ; N quotedblleft ; G 90
+U 8221 ; WX 466 ; N quotedblright ; G 91
+U 8226 ; WX 498 ; N bullet ; G 75
+U 8230 ; WX 712 ; N ellipsis ; G 69
+U 8364 ; WX 708 ; N Euro ; G 106
+U 8482 ; WX 959 ; N trademark ; G 100
+U 8722 ; WX 506 ; N minus ; G 110
+U 8734 ; WX 842 ; N infinity ; G 123
+U 8776 ; WX 506 ; N approxequal ; G 120
+U 8800 ; WX 506 ; N notequal ; G 114
+U 8804 ; WX 506 ; N lessequal ; G 118
+U 8805 ; WX 506 ; N greaterequal ; G 117
+EndCharMetrics
+EndFontMetrics
